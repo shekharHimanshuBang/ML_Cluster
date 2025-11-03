@@ -1,1 +1,2 @@
 Details of the project
+This is the instance for testing
